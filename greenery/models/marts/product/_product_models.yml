@@ -17,3 +17,7 @@ models:
         tests:
           - positive_values
       - name: inventory
+  - name: fact_prod_conversions
+    description: Fact product conversions
+  - name: fact_conversions
+    description: Fact conversions

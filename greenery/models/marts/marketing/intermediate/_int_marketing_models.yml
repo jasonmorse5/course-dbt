@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: int_user_order_details
+    description: Intermediate user order details

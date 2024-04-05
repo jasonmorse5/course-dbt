@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: int_prod_orders
+    description: Intermediate product order information
+  - name: int_prod_sessions
+    description: Intermediate product session information
