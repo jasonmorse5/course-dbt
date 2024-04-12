@@ -1,0 +1,13 @@
+version: 2
+
+exposures:  
+  - name: Product Funnel Dashboard
+    description: >
+      Models that are critical to our product funnel dashboard
+    type: dashboard
+    maturity: high
+    owner:
+      name: Jason Morse
+      email: jmorse@greenery.com
+    depends_on:
+      - ref('fact_prod_funnel')

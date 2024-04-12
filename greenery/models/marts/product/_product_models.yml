@@ -21,3 +21,5 @@ models:
     description: Fact product conversions
   - name: fact_conversions
     description: Fact conversions
+  - name: fact_prod_funnel
+    description: Fact Product Funnel
